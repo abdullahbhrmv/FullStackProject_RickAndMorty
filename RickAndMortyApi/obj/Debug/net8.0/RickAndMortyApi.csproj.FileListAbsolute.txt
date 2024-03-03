@@ -1,0 +1,8 @@
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.AssemblyInfo.cs
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdul\Desktop\FullStackProject_RickAndMorty\RickAndMortyApi\obj\Debug\net8.0\RickAndMortyApi.sourcelink.json
